@@ -1,0 +1,14 @@
+[
+	{
+		"Title": "Belajar Go",
+		"Completed": true,
+		"CreatedAt": "2025-05-20T22:47:37.020909329+07:00",
+		"CompletedAt": "2025-05-20T23:00:11.018025486+07:00"
+	},
+	{
+		"Title": "Membuat CLI App sederhana",
+		"Completed": true,
+		"CreatedAt": "2025-05-20T22:50:14.680412935+07:00",
+		"CompletedAt": "2025-05-20T22:50:46.841037885+07:00"
+	}
+]
